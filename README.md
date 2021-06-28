@@ -1,4 +1,4 @@
-![](https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif)
+![](https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif)
 
 
 👋 Hi, I’m @KarthikKM2002
