@@ -5,10 +5,14 @@
 
 🌱 Currently learning @ **PSG TECH**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-2002-git&layout=compact)](https://github.com/Karthik-2002-git/Karthik-2002-git)
+
 📫 How to reach me :
 
     mail : kmkarthik97@gmail.com
     contact : +91 8870334565
+
+
 
 <!---
 Karthik-2002-git/Karthik-2002-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
