@@ -1,3 +1,6 @@
+![](http://i.imgur.com/OUkLi.gif)
+
+
 👋 Hi, I’m @KarthikKM2002
 
 🌱 I’m currently learning @ PSG TECH.
