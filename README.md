@@ -3,7 +3,7 @@
 
  Hey there, I’m *@KarthikKM2002*
 
-🌱 I’m currently learning @ **PSG TECH**
+🌱 Currently learning @ **PSG TECH**
 
 📫 How to reach me :
 
