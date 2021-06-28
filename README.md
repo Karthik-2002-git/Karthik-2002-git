@@ -1,4 +1,4 @@
-![](https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif =250x250)
+<img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="100" height="100">
 
 
 👋 Hi, I’m @KarthikKM2002
