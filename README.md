@@ -1,4 +1,4 @@
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGRZMG-VMkKdOSYCfdH7pvQpa1-b9BD1mbJw&usqp=CAU)
+![](https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif)
 
 
 👋 Hi, I’m @KarthikKM2002
