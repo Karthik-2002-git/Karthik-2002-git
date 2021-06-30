@@ -5,7 +5,7 @@
 
 🌱 Currently learning @ **PSG TECH**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-2002-git&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-2002-git&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-2002-git&show_icons=true&theme=radical)
