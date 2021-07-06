@@ -1,7 +1,6 @@
-<img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="100" height="100">
+<img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="100" height="100">  Hey there, I’m *@KarthikKM2002*
 
 
- Hey there, I’m *@KarthikKM2002*
 
 🌱 Currently learning @ **PSG TECH**
 
