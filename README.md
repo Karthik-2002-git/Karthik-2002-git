@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-2002-git&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-2002-git" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthik-2002-git" alt="karthik-2002-git" /></a> </p>
-
 - 📫 How to reach me **20pw15@psgtech.ac.in**
 
 <h3 align="left">Connect with me:</h3>
