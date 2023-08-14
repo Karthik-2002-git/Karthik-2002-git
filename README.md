@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-2002-git&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-2002-git" /> </p>
 
 - 📫 How to reach me **20pw15@psgtech.ac.in**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/karthik_2002_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karthik_2002_" height="30" width="40" /></a>
